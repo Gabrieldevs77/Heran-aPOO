@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.exe
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.deps.json
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.dll
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\bin\Debug\netcoreapp3.1\Heran-aPOO.pdb
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.dll
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.pdb
+C:\Users\gabriel\Documents\GitHub\Heran-aPOO\obj\Debug\netcoreapp3.1\Heran-aPOO.genruntimeconfig.cache

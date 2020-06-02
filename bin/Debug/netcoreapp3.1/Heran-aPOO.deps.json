@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Heran-aPOO/1.0.0": {
+        "runtime": {
+          "Heran-aPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heran-aPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
